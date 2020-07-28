@@ -1,0 +1,4 @@
+In Python you can create list easily
+In Python you can create a everything you wont
+In Python you can write less code and do more
+In Python you can comunicate whit a database
